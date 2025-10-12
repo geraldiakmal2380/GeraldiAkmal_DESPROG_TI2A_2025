@@ -1,0 +1,15 @@
+#IniWarnaHijau{
+    color: greenyellow;
+}
+
+#IniWarnaMerah{
+    color: red;
+}
+
+#IniWarnaKuning{
+    color: yellow;
+}
+
+#Backround-id{
+    background-color: hsl(114, 56%, 77%);
+}
